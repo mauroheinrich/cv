@@ -250,7 +250,7 @@ font-size: 16px;
     font-size: 18px;
     width: 20px;
 }
-@media(max-whidth: 1000px)
+@media(max-width: 1000px)
 {
     .container
     {
@@ -262,7 +262,7 @@ font-size: 16px;
         grid-template-columns: repeat(2,1fr);
     }
 }
-@media(max-whidth: 600px)
+@media(max-width: 600px)
 {
     .about .box
     {
